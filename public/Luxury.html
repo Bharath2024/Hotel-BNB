@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Luxury Penthouse - Hotel B N B</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background: linear-gradient(to bottom, #0f1a2c, #f6ac0f);
+            color: #fff;
+            background-image: url('https://i.pinimg.com/originals/19/3f/b3/193fb30d419b761ed6bc0f1c5e34821f.jpg#0f1a2c');
+            /* Replace with your image path */
+            background-size: cover;
+            background-blend-mode: multiply;
+        }
+
+        header {
+            background-color: rgba(51, 51, 51, 0.8);
+            /* Semi-transparent background for better readability */
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        .booking-container {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            /* Semi-transparent background for better readability */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            color: #333;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background-color: #f6ac0f;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Luxury Penthouse</h1>
+    </header>
+
+    <div class="booking-container">
+        <form action="/" method="post" onsubmit="return bookNow()">
+            <div class="form-group">
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="check-in">Check-In Date:</label>
+                <input type="date" id="check-in" name="check-in" required>
+            </div>
+
+            <div class="form-group">
+                <label for="check-out">Check-Out Date:</label>
+                <input type="date" id="check-out" name="check-out" required>
+            </div>
+
+            <div class="form-group">
+                <label for="special-requests">Special Requests:</label>
+                <textarea id="special-requests" name="special-requests" rows="4"></textarea>
+            </div>
+
+            <div class="form-group">
+                <button type="submit">Book Now</button> 
+            </div>
+        </form>
+
+        <p>Cost: ₹11799/Night</p>
+    </div>
+
+    <script>
+        function bookNow() {
+            // You can add additional logic here for form validation or data submission
+            alert("Booked Successfully!");
+            window.location.href = "/";
+            return false; // Prevents the form from submitting
+        }
+    </script>
+
+</body>
+
+</html>
