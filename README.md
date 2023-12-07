@@ -6,18 +6,22 @@ Welcome to Hotel B N B, your gateway to a seamless and delightful hotel reservat
 Hotel B N B is more than just a reservation platform; it's an invitation to unparalleled comfort and luxury. Experience a seamless blend of modern convenience and warm hospitality. Whether you're a traveler seeking a tranquil escape or a business professional in need of a comfortable stay, Hotel B N B is your home away from home.
 
 ## Table of Contents
-    Introduction
-    Features
-    System Architecture
-    Components
-    Technologies Used
-    Installation
-    Usage
-    Screenshots
-    Contributing
+    1.Introduction
+    2.Features
+    3.System Architecture
+    4.Components
+    5.Technologies Used
+    6.Installation
+    7.Usage
+    8.Azure servies
+    9.Screenshots
+    10.Demo video url
+    11.Demo url
+    12.Contributing
 
 
 ## Introduction
+
 The Hotel Reservation System is designed to streamline the process of room booking and management for hotels. It provides a user-friendly interface for customers to check room availability, make reservations, and manage their bookings efficiently. The system also assists hotel administrators in managing room inventory, checking reservations, and ensuring a smooth check-in and check-out process.
 
 ## Features
@@ -32,40 +36,44 @@ Admin Dashboard: Hotel administrators have access to a dashboard for managing ro
 Real-time Updates: The system provides real-time updates on room availability and booking status.
 
 ## System Architecture
+
 The Hotel Reservation System follows a client-server architecture. It comprises a front-end interface for customers and an admin dashboard, and a back-end server for processing requests, managing databases, and handling reservations.
 
 ## Components
-Front-end:
-
+1.Front-end:
 Customer Interface
-
-
-Back-end:
-
+2.Back-end:
 Reservation Controller
-
 User Controller
-
-Database Management
-
+3.Database Management
 Database:
-
 User Database
 Room Database
 Reservation Database
 
 ## Technologies Used
-Front-end:
+* Front-end:
 
 HTML, CSS, JavaScript
 React.js 
 
 ## Back-end:
+* Back-end:
+Node.js 
 
-Node.js (Express.js)
-
+# node js project Guide line ​
+    mkdir my-nodejs-project-azure​
+    cd my-nodejs-project-azure​
+    npm init -y
+    npm install express​
+    touch index.js​
+    node index.js​
+    npm install -g nodemon​
+    nodemon index.js​
+    nodemon index.js​
 
 ## Installation
+
 Clone the repository from https://github.com/Bharath2024/Hotel-BNB.git.
 
 Install Node.js and npm if not already installed.
@@ -125,7 +133,7 @@ The Second team member is responsible for creating and updating the README file,
 
 To contribute, follow these 
 steps: a. Fork the project. 
-b. Create your documentation branch: git checkout -b https://github.com/Appuraj2304/VacationOuting/main/README.md. 
+b. Create your documentation branch: git checkout -b https://github.com/Bharath2024/Hotel-BNB/blob/main/README.md. 
 c. Commit your changes: git commit -m 'Update README.md'. 
 d. Push to the branch: git push origin main/README.md. 
 e. Submit a pull request.
@@ -134,3 +142,4 @@ e. Submit a pull request.
 3. Create a Azure AI service,Record Video and Voice Over (gokulpersonal3111@gmail.com):
 The Third team member is responsible for Recording video & Voice Over for the video.
 To contribute, follow these steps: a. Create a AI service on azure b. Fork the project. c. Recording video when deploying project on Azure. d. Give Voice over for the recorded Video.
+
