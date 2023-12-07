@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azure Bot Services Page</title>
+    <!-- Include Azure Bot Services SDK here if not already included -->
+    <!-- Example script tag for Web Chat channel -->
+    <!-- <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script> -->
+</head>
+<body>
+
+<!-- Your HTML content here -->
+
+<!-- Add a container for your Azure Bot Services -->
+<div id="azureBotContainer" style="height: 400px;">
+    
+</div>
+
+<!-- Include the script to check if Azure Bot Services are visible -->
+<script>
+    // Function to check if Azure Bot Services are visible
+    function isAzureBotVisible() {
+        var botContainer = document.getElementById('azureBotContainer');
+        return botContainer && botContainer.offsetHeight > 0;
+    }
+
+    // Function to display alert if Azure Bot Services are not visible
+    function displayAlert() {
+        if (!isAzureBotVisible()) {
+            alert("Azure Bot Services are not visible. $100 project is finished!");
+        }
+    }
+
+    // Run the displayAlert function when the page is loaded
+    window.onload = function () {
+        displayAlert();
+    };
+</script>
+
+</body>
+</html>
