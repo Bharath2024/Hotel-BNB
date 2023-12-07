@@ -1,145 +1,115 @@
-## Hotel B N B - Your Ultimate Reservation Platform
-Hotel B N B - Your Ultimate Reservation Platform
+# Hotel B N B - Your Ultimate Reservation Platform
+
 Welcome to Hotel B N B, your gateway to a seamless and delightful hotel reservation experience.
 
 ## About
+
 Hotel B N B is more than just a reservation platform; it's an invitation to unparalleled comfort and luxury. Experience a seamless blend of modern convenience and warm hospitality. Whether you're a traveler seeking a tranquil escape or a business professional in need of a comfortable stay, Hotel B N B is your home away from home.
 
 ## Table of Contents
-    1.Introduction
-    2.Features
-    3.System Architecture
-    4.Components
-    5.Technologies Used
-    6.Installation
-    7.Usage
-    8.Azure servies
-    9.Screenshots
-    10.Demo video url
-    11.Demo url
-    12.Contributing
-
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [System Architecture](#system-architecture)
+4. [Components](#components)
+5. [Technologies Used](#technologies-used)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [Azure Services](#azure-services)
+9. [Screenshots](#screenshots)
+10. [Demo Video URL](#demo-video-url)
+11. [Demo URL](#demo-url)
+12. [Contributing](#contributing)
 
 ## Introduction
 
 The Hotel Reservation System is designed to streamline the process of room booking and management for hotels. It provides a user-friendly interface for customers to check room availability, make reservations, and manage their bookings efficiently. The system also assists hotel administrators in managing room inventory, checking reservations, and ensuring a smooth check-in and check-out process.
 
 ## Features
-Room Availability: Customers can check the availability of rooms for a specific date range.
 
-User Registration: Customers can create accounts to manage their bookings and personal information.
-
-Booking Management: Customers can make, modify, or cancel reservations.
-
-Admin Dashboard: Hotel administrators have access to a dashboard for managing room inventory, reservations, and customer details.
-
-Real-time Updates: The system provides real-time updates on room availability and booking status.
+- **Room Availability:** Customers can check the availability of rooms for a specific date range.
+- **User Registration:** Customers can create accounts to manage their bookings and personal information.
+- **Booking Management:** Customers can make, modify, or cancel reservations.
+- **Admin Dashboard:** Hotel administrators have access to a dashboard for managing room inventory, reservations, and customer details.
+- **Real-time Updates:** The system provides real-time updates on room availability and booking status.
 
 ## System Architecture
 
 The Hotel Reservation System follows a client-server architecture. It comprises a front-end interface for customers and an admin dashboard, and a back-end server for processing requests, managing databases, and handling reservations.
 
 ## Components
-1.Front-end:
-Customer Interface
-2.Back-end:
-Reservation Controller
-User Controller
-3.Database Management
-Database:
-User Database
-Room Database
-Reservation Database
+
+1. **Front-end:**
+   - Customer Interface
+2. **Back-end:**
+   - Reservation Controller
+   - User Controller
+3. **Database Management:**
+   - Database:
+     - User Database
+     - Room Database
+     - Reservation Database
 
 ## Technologies Used
-* Front-end:
 
-HTML, CSS, JavaScript
-React.js 
-
-## Back-end:
-* Back-end:
-Node.js 
-
-# node js project Guide line ​
-    mkdir my-nodejs-project-azure​
-    cd my-nodejs-project-azure​
-    npm init -y
-    npm install express​
-    touch index.js​
-    node index.js​
-    npm install -g nodemon​
-    nodemon index.js​
-    nodemon index.js​
+- **Front-end:**
+  - HTML, CSS, JavaScript
+  - React.js 
+- **Back-end:**
+  - Node.js 
 
 ## Installation
 
-Clone the repository from https://github.com/Bharath2024/Hotel-BNB.git.
-
-Install Node.js and npm if not already installed.
-
-Navigate to the project directory and run npm install to install dependencies.
-
-
-Run the application using npm start.
+1. Clone the repository from [Hotel B N B GitHub Repo](https://github.com/Bharath2024/Hotel-BNB.git).
+2. Install Node.js and npm if not already installed.
+3. Navigate to the project directory and run `npm install` to install dependencies.
+4. Run the application using `npm start`.
 
 ## Usage
-Access the customer interface to check room availability and make reservations.
 
-Log in to the admin dashboard to manage room inventory and reservations.
+- Access the customer interface to check room availability and make reservations.
+- Log in to the admin dashboard to manage room inventory and reservations.
 
 ## Azure Services
 
 The project leverages the following Azure services:
 
-## Azure app service
-Create an Azure App Service for Node.js.
-Set up continuous deployment from your Git repository.
-Configure the following environment variables in the Azure App Service: PORT (e.g., 3002) NODE_ENV (e.g., production)
+- **Azure App Service:**
+  - Create an Azure App Service for Node.js.
+  - Set up continuous deployment from your Git repository.
+  - Configure the following environment variables in the Azure App Service: 
+    - PORT (e.g., 3002)
+    - NODE_ENV (e.g., production)
+- **Azure Virtual Network (VNet):**
+  - Set up a Virtual Network in the Azure Portal.
+  - Integrate your Azure App Service and Azure Blob Storage with the Virtual Network for enhanced security.
+  - Configure the necessary network rules and security groups.
+- **Azure AI services:**
+  - Connected with Azure AI services (AI Language & Bot services).
 
-## Azure Virtual Network (VNet):
+## Screenshots
 
-Set up a Virtual Network in the Azure Portal.
-Integrate your Azure App Service and Azure Blob Storage with the Virtual Network for enhanced security.
-Configure the necessary network rules and security groups.
+[Add screenshots here]
 
-## Azure AI services
+## Demo Video URL
 
-I had connected with Azure AI services (AI Language & Bot services)
+[Add demo video URL here]
 
-## screenshots
+## Demo URL
 
-## demo video url
+[Add demo URL here]
 
+## Contributing
 
-## demo url
+This project is a collaborative effort, and each team member has a specific role:
 
-## Contributing This project is a collaborative effort, and each team member has a specific role:
+1. **Development & Deployment (bharathkumars.2024@gmail.com, rr642237@gmail.com):**
+   - Responsible for coding and implementing new features.
+   - Follow the contribution guidelines.
 
-1. Development & Deployment (bharathkumars.2024@gmail.com, rr642237@gmail.com):
+2. **Documentation (vigneshp3008@gmail.com):**
+   - Responsible for creating and updating the README file, including demo screenshots, demo video.
+   - Follow the contribution guidelines.
 
-I am responsible for coding and implementing new features.
-To contribute, follow these 
-a. Fork the project. 
-b. Create your feature branch: git checkout -b (https://github.com/Bharath2024/Hotel-BNB.git) 
-c. Commit your changes: git commit -m 'Add some feature'. 
-d. Push to the branch: git push origin feature/your-feature. 
-e. Submit a pull request. f. deploying the application on Azure services. 
-g. Ensure that the deployment is seamless and aligns with the project requirements.
-
-2. Documentation (vigneshp3008@gmail.com):
-
-The Second team member is responsible for creating and updating the README file, including demo screenshots, demo video.
-
-To contribute, follow these 
-steps: a. Fork the project. 
-b. Create your documentation branch: git checkout -b https://github.com/Bharath2024/Hotel-BNB/blob/main/README.md. 
-c. Commit your changes: git commit -m 'Update README.md'. 
-d. Push to the branch: git push origin main/README.md. 
-e. Submit a pull request.
-
-
-3. Create a Azure AI service,Record Video and Voice Over (gokulpersonal3111@gmail.com):
-The Third team member is responsible for Recording video & Voice Over for the video.
-To contribute, follow these steps: a. Create a AI service on azure b. Fork the project. c. Recording video when deploying project on Azure. d. Give Voice over for the recorded Video.
-
+3. **Create Azure AI service, Record Video and Voice Over (gokulpersonal3111@gmail.com):**
+   - Responsible for creating Azure AI service, recording video & Voice Over for the video.
+   - Follow the contribution guidelines.
