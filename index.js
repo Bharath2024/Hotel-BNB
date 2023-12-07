@@ -132,7 +132,7 @@ app.get("/privacy&policy", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "privacy.html"));
 });
 
-app.get("/tearms&condition", (req, res) => {
+app.get("/terms&condition", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "terms.html"));
 });
 
