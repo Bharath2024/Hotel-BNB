@@ -13,6 +13,7 @@ Hotel B N B is more than just a reservation platform; it's an invitation to unpa
     Technologies Used
     Installation
     Usage
+    
     Screenshots
     Contributing
 
