@@ -88,7 +88,22 @@ The project leverages the following Azure services:
 
 ## Screenshots
 
-[Add screenshots here]
+![1](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/1af7019d-5fd4-4dc6-8ca3-e8ded20628e1)
+![2](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/6fec0c84-068b-4248-8df9-b2008aacff10)
+![3](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/252d1efe-9571-4a6c-ac1f-71f5e719ae80)
+![4](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/2ecb1c35-fe4c-496d-b880-c3a988226db5)
+![5](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/aaff4b9c-4b24-49e7-a33d-4d1a9439724c)
+![6](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/384f43ae-95bc-4e60-bb34-c457f4eb4bd5)
+![7](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/aa6e4164-4742-4a2f-b91d-78b5450629a7)
+![8](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/885eb718-d18a-46f4-b5d1-6d6ce21e5de1)
+![9](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/df8c8430-5afe-440e-92dc-f69ed105eb4e)
+![10](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/a0ee8439-cee8-42ff-98ff-4bf343737136)
+![11](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/324a2f98-783e-421a-a0b9-181e52ee9571)
+![12](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/557416df-16c7-4c43-bfde-2b2a02bb7092)
+![13](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/79bc3b67-d61b-4dd2-b179-d6093fcf9948)
+![14](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/52c04de3-bdfc-4236-a374-0d6238dde57a)
+![15](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/13e627ec-06af-4dd1-b773-135ec8071b4d)
+
 
 ## Demo Video URL
 
@@ -96,7 +111,7 @@ The project leverages the following Azure services:
 
 ## Demo URL
 
-[Add demo URL here]
+[[Add demo URL here]](https://hotelbnb.azurewebsites.net/)
 
 ## Contributing
 
