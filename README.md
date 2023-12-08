@@ -125,7 +125,7 @@ The project leverages the following Azure services:
 
 ## Demo Video URL
 
-[Add demo video URL here]
+[[Click here for Video URL]](https://youtu.be/6IJSgsgHxy8?si=y3xJO8vXzzVuoGr2)
 
 ## Demo URL
 
