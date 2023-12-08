@@ -103,6 +103,24 @@ The project leverages the following Azure services:
 ![13](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/79bc3b67-d61b-4dd2-b179-d6093fcf9948)
 ![14](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/52c04de3-bdfc-4236-a374-0d6238dde57a)
 ![15](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/13e627ec-06af-4dd1-b773-135ec8071b4d)
+![16](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/d88bee41-68cb-4654-96f2-bc9d387ad35c)
+![17](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/d3ea8010-f28e-40d8-a93a-26dc58238ed5)
+![18](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/8bc9fb85-f222-4066-9aee-c959c4549e45)
+![19](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/52a4b25c-468c-40ed-a9ed-4f825fdef04d)
+![20](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/6518a872-cfdc-4272-96df-a3cae0319d23)
+![21](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/1590a82a-f5d1-48ca-8c16-a18798bad4b5)
+![22](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/149b4749-b7cc-4630-a861-46bad2e012d9)
+![23](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/c3d281a2-3514-4a57-8948-9418deb537ed)
+![24](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/536aff2b-d7df-4b86-a1ff-f286153328c6)
+![25](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/a98a005a-0b21-4182-b242-e8f91e26681b)
+![26](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/4c978b76-61e5-4436-a491-0f9737572aaf)
+![27](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/d577214d-523c-47d2-8b1b-9bc44d93f325)
+![28](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/32bb8bc6-56ec-45c6-9b97-5b5f56e78803)
+![29](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/d4095316-8792-4d04-8a68-dc469711307e)
+![30](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/df2e493e-dac5-48b3-a5dd-c245fa29ca4e)
+![31](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/8ebdb17f-8b36-4864-9084-d6a6a8e2c63d)
+![32](https://github.com/Bharath2024/Hotel-BNB/assets/145565440/58d5b2c7-5183-4a76-876e-6447e78317f7)
+
 
 
 ## Demo Video URL
