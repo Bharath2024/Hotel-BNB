@@ -111,7 +111,7 @@ The project leverages the following Azure services:
 
 ## Demo URL
 
-[[Add demo URL here]](https://hotelbnb.azurewebsites.net/)
+[[Click URL here]](https://hotelbnb.azurewebsites.net/)
 
 ## Contributing
 
